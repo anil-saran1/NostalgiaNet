@@ -1,0 +1,24 @@
+.custom-datepicker {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background-color: #f3f3f3;
+    color: #333;
+    border-radius: 8px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 0.875rem;
+    width: auto;
+  }
+  
+  .custom-datepicker .react-datepicker__input-container input {
+    display: none; /* Hide the default input */
+  }
+  
+  .custom-datepicker .react-datepicker-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  

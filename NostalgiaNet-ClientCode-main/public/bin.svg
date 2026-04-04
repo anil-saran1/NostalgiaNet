@@ -1,0 +1,13 @@
+<svg width="111" height="133" viewBox="0 0 111 133" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Shape -->
+  <path d="M110.392 66.2354C110.392 102.816 66.2354 107.301 66.2354 132.471C29.6546 132.471 0 102.816 0 66.2354C0 29.6546 29.6546 0 66.2354 0C66.2354 22.9616 110.392 29.6546 110.392 66.2354Z" fill="#D4D4D4"/>
+  
+  <!-- Circle -->
+  <circle cx="66.2352" cy="66.2354" r="35.3255" fill="#282625"/>
+
+  <!-- Dustbin Icon - Smaller size and centered -->
+  <svg x="49" y="48" width="35" height="35" fill="#FFFFFF" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <path d="M4 8H20V21C20 21.5523 19.5523 22 19 22H5C4.44772 22 4 21.5523 4 21V8ZM7 5V3C7 2.44772 7.44772 2 8 2H16C16.5523 2 17 2.44772 17 3V5H22V7H2V5H7ZM9 4V5H15V4H9ZM9 12V18H11V12H9ZM13 12V18H15V12H13Z"></path>
+  </svg>
+</svg>
+

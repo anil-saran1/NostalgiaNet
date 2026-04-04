@@ -1,0 +1,59 @@
+/* Container for the entire inner material */
+.journal-inner-container {
+    position: relative;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Journal Cards Container */
+  
+  /* Individual Journal Card Styling */
+  .journal-card {
+    width: 150px;
+    height: 200px;
+    overflow: hidden;
+  }
+  
+  .journal-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  
+  
+  .create-button:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Create/Browse Toggle Buttons */
+  .toggle-buttons {
+    display: flex;
+    gap: 20px;
+    margin-top: 60px;
+  }
+  
+  .toggle-button {
+    padding: 10px 30px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .toggle-button.active {
+    background-color: #f8f8f8;
+    color: #000;
+  }
+  
+  .toggle-button:not(.active) {
+    background-color: #333;
+    color: #fff;
+  }
+  
+  .toggle-button:hover {
+    background-color: #444;
+  }
+  
