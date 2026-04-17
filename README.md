@@ -1,3 +1,8 @@
+# Authors
+1. Anil Saran - saranil1112000@gmail.com
+2. Aditya Sahu - asahu3324@gmail.com
+3. Aman Raj - aman.raj210101@gmail.com
+
 # NostalgiaNet
 
 NostalgiaNet is a unique digital platform designed as a time capsule. It allows users to securely store images, videos, and other multimedia content for varying amounts of time, preserving their memories for future retrieval and sharing.
